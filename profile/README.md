@@ -5,4 +5,5 @@ More info will be available soon...so stay tuned 👀
 
 ### Team 👥
 - [Riccardo Zanardi](https://linkedin.com/in/riccardo-zanardi) (CEO)
-- [Paolo Zanotti](https://linkedin.com/in/paolo-zanotti) (CTO)
+- [Paolo Zanotti](https://paolozanotti.dev) (CTO)
+- [Matteo Soldini](https://github.com/MatteoSoldini) (Software Engineer)
